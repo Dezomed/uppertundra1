@@ -1,0 +1,26 @@
+{
+  "treasury_total": 10000499.0,
+  "donations": {
+    "1422954334932439110": {
+      "name": "_kotomy_",
+      "total": 500.0,
+      "history": [
+        {
+          "amount": 500.0,
+          "currency": "RUB"
+        }
+      ]
+    },
+    "1315323936116047882": {
+      "name": "mawzitt",
+      "total": 9999999.0,
+      "history": [
+        {
+          "amount": 9999999.0,
+          "currency": "rub",
+          "recorded_by": "mawzitt"
+        }
+      ]
+    }
+  }
+}

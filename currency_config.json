@@ -1,0 +1,39 @@
+{
+  "salaries": {},
+  "shop": [
+    {
+      "name": "богатый лазурный",
+      "price": 70000,
+      "description": "",
+      "role_id": null
+    },
+    {
+      "name": "богатый желтый",
+      "price": 70000,
+      "description": "",
+      "role_id": null
+    },
+    {
+      "name": "<@&1486407979422191859>",
+      "price": 70000,
+      "description": "",
+      "role_id": null
+    },
+    {
+      "name": "<@&1486407979422191864>",
+      "price": 70000,
+      "description": "",
+      "role_id": null,
+      "role_description": ""
+    },
+    {
+      "name": "мяу",
+      "price": 70000,
+      "description": "",
+      "role_id": "1486407979422191859",
+      "role_description": ""
+    }
+  ],
+  "daily_role_id": null,
+  "daily_amount": 2000
+}
